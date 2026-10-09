@@ -1,0 +1,7 @@
+# Archivos del sistema
+Thumbs.db
+desktop.ini
+
+# Archivos de respaldo
+*.bak
+*.tmp
